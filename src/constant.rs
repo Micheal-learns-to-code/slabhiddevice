@@ -1,0 +1,1 @@
+pub const MAX_FEATURE_REPORT_BUFFER_SIZE: u8 = 64;
