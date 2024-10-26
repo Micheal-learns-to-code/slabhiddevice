@@ -2,6 +2,13 @@
 name = "slabhiddevice"
 version = "0.1.0"
 edition = "2021"
+authors = ["Manh Ha Nguyen <ha.nguyen.prof@gmail.com>"]
+description = "HidDevice library in Rust"
+homepage = "https://github.com/Micheal-learns-to-code/slabhiddevice"
+repository = "https://github.com/Micheal-learns-to-code/slabhiddevice.git"
+readme = "README.md"
+license = "MIT"
+keywords = ["usb", "hardware", "hid", "cp2112"]
 
 [dependencies]
 hidapi = "2.6.3"
